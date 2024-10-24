@@ -10,8 +10,8 @@ namespace Banco {
             NumConta = numConta;
             Titular = titular;
         }
-        public ContaBancaria(int numConta, string titular, double saldo) : this(numConta, titular) {
-            Saldo = saldo;
+        public ContaBancaria(int numConta, string titular, double depositoInicial) : this(numConta, titular) {
+            Deposito(depositoInicial);
         }
 
         public void Deposito(double quantia) {

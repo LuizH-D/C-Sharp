@@ -1,0 +1,14 @@
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\Banco\Banco\obj\Debug\net8.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\Banco\Banco\obj\Debug\net8.0\Banco.AssemblyInfoInputs.cache
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\Banco\Banco\obj\Debug\net8.0\Banco.AssemblyInfo.cs
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\Banco\Banco\obj\Debug\net8.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\Banco\Banco\bin\Debug\net8.0\Banco.exe
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\Banco\Banco\bin\Debug\net8.0\Banco.deps.json
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\Banco\Banco\bin\Debug\net8.0\Banco.runtimeconfig.json
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\Banco\Banco\bin\Debug\net8.0\Banco.dll
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\Banco\Banco\bin\Debug\net8.0\Banco.pdb
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\Banco\Banco\obj\Debug\net8.0\Banco.dll
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\Banco\Banco\obj\Debug\net8.0\refint\Banco.dll
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\Banco\Banco\obj\Debug\net8.0\Banco.pdb
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\Banco\Banco\obj\Debug\net8.0\Banco.genruntimeconfig.cache
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\Banco\Banco\obj\Debug\net8.0\ref\Banco.dll

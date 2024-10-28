@@ -1,2 +1,2 @@
 # C-Sharp
-Trechos de projetos na linguagem C#
+Códigos referentes a exercícios do meu curso de C#

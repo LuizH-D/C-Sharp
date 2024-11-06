@@ -1,0 +1,14 @@
+C:\Users\luizh\source\repos\Array2D\Array2D\bin\Debug\net8.0\Array2D.exe
+C:\Users\luizh\source\repos\Array2D\Array2D\bin\Debug\net8.0\Array2D.deps.json
+C:\Users\luizh\source\repos\Array2D\Array2D\bin\Debug\net8.0\Array2D.runtimeconfig.json
+C:\Users\luizh\source\repos\Array2D\Array2D\bin\Debug\net8.0\Array2D.dll
+C:\Users\luizh\source\repos\Array2D\Array2D\bin\Debug\net8.0\Array2D.pdb
+C:\Users\luizh\source\repos\Array2D\Array2D\obj\Debug\net8.0\Array2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizh\source\repos\Array2D\Array2D\obj\Debug\net8.0\Array2D.AssemblyInfoInputs.cache
+C:\Users\luizh\source\repos\Array2D\Array2D\obj\Debug\net8.0\Array2D.AssemblyInfo.cs
+C:\Users\luizh\source\repos\Array2D\Array2D\obj\Debug\net8.0\Array2D.csproj.CoreCompileInputs.cache
+C:\Users\luizh\source\repos\Array2D\Array2D\obj\Debug\net8.0\Array2D.dll
+C:\Users\luizh\source\repos\Array2D\Array2D\obj\Debug\net8.0\refint\Array2D.dll
+C:\Users\luizh\source\repos\Array2D\Array2D\obj\Debug\net8.0\Array2D.pdb
+C:\Users\luizh\source\repos\Array2D\Array2D\obj\Debug\net8.0\Array2D.genruntimeconfig.cache
+C:\Users\luizh\source\repos\Array2D\Array2D\obj\Debug\net8.0\ref\Array2D.dll

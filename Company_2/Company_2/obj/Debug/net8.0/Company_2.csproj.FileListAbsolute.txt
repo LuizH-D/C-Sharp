@@ -1,0 +1,14 @@
+C:\Users\luizh\source\repos\Company_2\Company_2\bin\Debug\net8.0\Company_2.exe
+C:\Users\luizh\source\repos\Company_2\Company_2\bin\Debug\net8.0\Company_2.deps.json
+C:\Users\luizh\source\repos\Company_2\Company_2\bin\Debug\net8.0\Company_2.runtimeconfig.json
+C:\Users\luizh\source\repos\Company_2\Company_2\bin\Debug\net8.0\Company_2.dll
+C:\Users\luizh\source\repos\Company_2\Company_2\bin\Debug\net8.0\Company_2.pdb
+C:\Users\luizh\source\repos\Company_2\Company_2\obj\Debug\net8.0\Company_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizh\source\repos\Company_2\Company_2\obj\Debug\net8.0\Company_2.AssemblyInfoInputs.cache
+C:\Users\luizh\source\repos\Company_2\Company_2\obj\Debug\net8.0\Company_2.AssemblyInfo.cs
+C:\Users\luizh\source\repos\Company_2\Company_2\obj\Debug\net8.0\Company_2.csproj.CoreCompileInputs.cache
+C:\Users\luizh\source\repos\Company_2\Company_2\obj\Debug\net8.0\Company_2.dll
+C:\Users\luizh\source\repos\Company_2\Company_2\obj\Debug\net8.0\refint\Company_2.dll
+C:\Users\luizh\source\repos\Company_2\Company_2\obj\Debug\net8.0\Company_2.pdb
+C:\Users\luizh\source\repos\Company_2\Company_2\obj\Debug\net8.0\Company_2.genruntimeconfig.cache
+C:\Users\luizh\source\repos\Company_2\Company_2\obj\Debug\net8.0\ref\Company_2.dll

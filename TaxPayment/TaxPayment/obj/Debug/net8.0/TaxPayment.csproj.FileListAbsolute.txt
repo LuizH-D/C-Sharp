@@ -1,0 +1,15 @@
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\TaxPayment\TaxPayment\bin\Debug\net8.0\TaxPayment.exe
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\TaxPayment\TaxPayment\bin\Debug\net8.0\TaxPayment.deps.json
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\TaxPayment\TaxPayment\bin\Debug\net8.0\TaxPayment.runtimeconfig.json
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\TaxPayment\TaxPayment\bin\Debug\net8.0\TaxPayment.dll
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\TaxPayment\TaxPayment\bin\Debug\net8.0\TaxPayment.pdb
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\TaxPayment\TaxPayment\obj\Debug\net8.0\TaxPayment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\TaxPayment\TaxPayment\obj\Debug\net8.0\TaxPayment.AssemblyInfoInputs.cache
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\TaxPayment\TaxPayment\obj\Debug\net8.0\TaxPayment.AssemblyInfo.cs
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\TaxPayment\TaxPayment\obj\Debug\net8.0\TaxPayment.csproj.CoreCompileInputs.cache
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\TaxPayment\TaxPayment\obj\Debug\net8.0\TaxPayment.sourcelink.json
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\TaxPayment\TaxPayment\obj\Debug\net8.0\TaxPayment.dll
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\TaxPayment\TaxPayment\obj\Debug\net8.0\refint\TaxPayment.dll
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\TaxPayment\TaxPayment\obj\Debug\net8.0\TaxPayment.pdb
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\TaxPayment\TaxPayment\obj\Debug\net8.0\TaxPayment.genruntimeconfig.cache
+C:\Users\luizh\OneDrive\Documentos\Projetos\C#\TaxPayment\TaxPayment\obj\Debug\net8.0\ref\TaxPayment.dll

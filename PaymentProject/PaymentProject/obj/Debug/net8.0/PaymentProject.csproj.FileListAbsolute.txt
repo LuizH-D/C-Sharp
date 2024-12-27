@@ -1,0 +1,14 @@
+C:\Users\luizh\Documents\Projetos\C#\PaymentProject\PaymentProject\bin\Debug\net8.0\PaymentProject.exe
+C:\Users\luizh\Documents\Projetos\C#\PaymentProject\PaymentProject\bin\Debug\net8.0\PaymentProject.deps.json
+C:\Users\luizh\Documents\Projetos\C#\PaymentProject\PaymentProject\bin\Debug\net8.0\PaymentProject.runtimeconfig.json
+C:\Users\luizh\Documents\Projetos\C#\PaymentProject\PaymentProject\bin\Debug\net8.0\PaymentProject.dll
+C:\Users\luizh\Documents\Projetos\C#\PaymentProject\PaymentProject\bin\Debug\net8.0\PaymentProject.pdb
+C:\Users\luizh\Documents\Projetos\C#\PaymentProject\PaymentProject\obj\Debug\net8.0\PaymentProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizh\Documents\Projetos\C#\PaymentProject\PaymentProject\obj\Debug\net8.0\PaymentProject.AssemblyInfoInputs.cache
+C:\Users\luizh\Documents\Projetos\C#\PaymentProject\PaymentProject\obj\Debug\net8.0\PaymentProject.AssemblyInfo.cs
+C:\Users\luizh\Documents\Projetos\C#\PaymentProject\PaymentProject\obj\Debug\net8.0\PaymentProject.csproj.CoreCompileInputs.cache
+C:\Users\luizh\Documents\Projetos\C#\PaymentProject\PaymentProject\obj\Debug\net8.0\PaymentProject.dll
+C:\Users\luizh\Documents\Projetos\C#\PaymentProject\PaymentProject\obj\Debug\net8.0\refint\PaymentProject.dll
+C:\Users\luizh\Documents\Projetos\C#\PaymentProject\PaymentProject\obj\Debug\net8.0\PaymentProject.pdb
+C:\Users\luizh\Documents\Projetos\C#\PaymentProject\PaymentProject\obj\Debug\net8.0\PaymentProject.genruntimeconfig.cache
+C:\Users\luizh\Documents\Projetos\C#\PaymentProject\PaymentProject\obj\Debug\net8.0\ref\PaymentProject.dll

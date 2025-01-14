@@ -1,0 +1,14 @@
+C:\Users\luizh\Documents\Projetos\C#\CoursesPortal\CoursesPortal\bin\Debug\net8.0\CoursesPortal.exe
+C:\Users\luizh\Documents\Projetos\C#\CoursesPortal\CoursesPortal\bin\Debug\net8.0\CoursesPortal.deps.json
+C:\Users\luizh\Documents\Projetos\C#\CoursesPortal\CoursesPortal\bin\Debug\net8.0\CoursesPortal.runtimeconfig.json
+C:\Users\luizh\Documents\Projetos\C#\CoursesPortal\CoursesPortal\bin\Debug\net8.0\CoursesPortal.dll
+C:\Users\luizh\Documents\Projetos\C#\CoursesPortal\CoursesPortal\bin\Debug\net8.0\CoursesPortal.pdb
+C:\Users\luizh\Documents\Projetos\C#\CoursesPortal\CoursesPortal\obj\Debug\net8.0\CoursesPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizh\Documents\Projetos\C#\CoursesPortal\CoursesPortal\obj\Debug\net8.0\CoursesPortal.AssemblyInfoInputs.cache
+C:\Users\luizh\Documents\Projetos\C#\CoursesPortal\CoursesPortal\obj\Debug\net8.0\CoursesPortal.AssemblyInfo.cs
+C:\Users\luizh\Documents\Projetos\C#\CoursesPortal\CoursesPortal\obj\Debug\net8.0\CoursesPortal.csproj.CoreCompileInputs.cache
+C:\Users\luizh\Documents\Projetos\C#\CoursesPortal\CoursesPortal\obj\Debug\net8.0\CoursesPortal.dll
+C:\Users\luizh\Documents\Projetos\C#\CoursesPortal\CoursesPortal\obj\Debug\net8.0\refint\CoursesPortal.dll
+C:\Users\luizh\Documents\Projetos\C#\CoursesPortal\CoursesPortal\obj\Debug\net8.0\CoursesPortal.pdb
+C:\Users\luizh\Documents\Projetos\C#\CoursesPortal\CoursesPortal\obj\Debug\net8.0\CoursesPortal.genruntimeconfig.cache
+C:\Users\luizh\Documents\Projetos\C#\CoursesPortal\CoursesPortal\obj\Debug\net8.0\ref\CoursesPortal.dll
